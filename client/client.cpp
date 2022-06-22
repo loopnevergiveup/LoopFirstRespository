@@ -1,5 +1,5 @@
 #include<iostream>
-#include<boost/asio.hpp>
+#include<boost/accumulators/accumulators.hpp>
 int main(){
     std::cout<<1;
 }
